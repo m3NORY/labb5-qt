@@ -8,14 +8,7 @@
 
 ## Иерархия классов
 ### Класс Contact
-class Contact {
-public:
-    virtual ~Contact() = default;
-    virtual QString getName() const = 0;
-    virtual QString getInfo() const = 0;
-    virtual QString getType() const = 0;
-    virtual QString toText() const = 0;
-};
+![image alt](https://github.com/m3NORY/labb5-qt/blob/main/lab5/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-02-28%20003056.png?raw=true)
 ## Производные классы (4 типа контактов)
 Класс	- Тип -	Описание
 PersonContact -	Person -	Физическое лицо (имя, телефон, email)
