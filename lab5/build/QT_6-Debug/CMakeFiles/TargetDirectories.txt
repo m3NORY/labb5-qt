@@ -1,0 +1,8 @@
+D:/labs q/lab5/build/QT_6-Debug/CMakeFiles/lab5.dir
+D:/labs q/lab5/build/QT_6-Debug/CMakeFiles/edit_cache.dir
+D:/labs q/lab5/build/QT_6-Debug/CMakeFiles/rebuild_cache.dir
+D:/labs q/lab5/build/QT_6-Debug/CMakeFiles/list_install_components.dir
+D:/labs q/lab5/build/QT_6-Debug/CMakeFiles/install.dir
+D:/labs q/lab5/build/QT_6-Debug/CMakeFiles/install/local.dir
+D:/labs q/lab5/build/QT_6-Debug/CMakeFiles/lab5_autogen_timestamp_deps.dir
+D:/labs q/lab5/build/QT_6-Debug/CMakeFiles/lab5_autogen.dir
